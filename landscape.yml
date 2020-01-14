@@ -3727,7 +3727,7 @@ landscape:
           - item:
             name: Applications Manager
 			      description: >-
-             Applications Manager is a multi-platform monitoring tool built for IT admins and DevOps for tracking KPIs of over a hundred technologies spanning across server, virtual machines, cloud applications, application servers, databases, big data stores, middleware & messaging components, web servers, web services & ERP suites.
+              Applications Manager is a multi-platform monitoring tool built for IT admins and DevOps for tracking KPIs of over a hundred technologies spanning across server, virtual machines, cloud applications, application servers, databases, big data stores, middleware & messaging components, web servers, web services & ERP suites.
             homepage_url: 'https://www.manageengine.com/products/applications_manager/'
             logo: applications-manager.svg
             twitter: 'https://twitter.com/apm_me'
@@ -4059,7 +4059,6 @@ landscape:
             repo_url: 'https://github.com/zabbix/zabbix'
             logo: zabbix.svg
             crunchbase: 'https://www.crunchbase.com/organization/zabbix'
-        
       - subcategory:
         name: Logging
         items:
